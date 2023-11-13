@@ -1,3 +1,5 @@
+# Sign up at to get your API key (https://openweathermap.org/) and Edit .env
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
